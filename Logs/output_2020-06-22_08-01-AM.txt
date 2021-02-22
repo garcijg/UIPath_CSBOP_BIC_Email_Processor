@@ -1,0 +1,78 @@
+06/22/2020 03:23:11 => [Debug] Debug started for file: Main
+06/22/2020 03:23:14 => [Info] EmailDownloadAndProcess_REF execution started
+06/22/2020 03:23:16 => [Info] Start: 2020/06/22 03:23:16
+06/22/2020 03:23:20 => [Debug] Killing processes...
+06/22/2020 03:23:23 => [Debug] Opening applications...
+06/22/2020 03:23:23 => [Info] Processing Transaction Number: 1
+06/22/2020 03:23:24 => [Info] 06/22/2020 03:23:24 - Message From: "Juan G Garcia" <Juan.G.Garcia@sce.com>
+Message Date: 06/19/2020 22:57:17
+Subject: Collection System Report (100K+)
+Attachments Count: 1
+06/22/2020 03:23:24 => [Info] 06/22/2020 03:23:24 - Processing attachment: SMTP1.COLLECTIONS_FIRST_REPORT.ZIP
+06/22/2020 03:23:27 => [Info] 06/22/2020 03:23:27 - Uploading File to SharePoint: Data\Downloads\ExtractedFiles\CUR\CUR850TF.CSV
+06/22/2020 03:23:31 => [Info] 06/22/2020 03:23:31 - Computing total number of rows
+06/22/2020 03:23:31 => [Info] 06/22/2020 03:23:31 - Row Count: 160000
+06/22/2020 03:23:31 => [Info] 06/22/2020 03:23:31 - Extracting First Half of Data from File: Data\Downloads\ExtractedFiles\CUR\CUR850TF.CSV
+06/22/2020 03:23:32 => [Info] 06/22/2020 03:23:32 - Data Rows Extracted from .CSV File: 80000
+06/22/2020 03:23:32 => [Info] 06/22/2020 03:23:32 - Adding new columns 'received_time' and 'row_number' to DataTable
+06/22/2020 03:23:32 => [Info] 06/22/2020 03:23:32 - Column addition completed
+06/22/2020 03:23:32 => [Info] 06/22/2020 03:23:32 - Extracting Second Half Data from File: Data\Downloads\ExtractedFiles\CUR\CUR850TF.CSV
+06/22/2020 03:23:33 => [Info] 06/22/2020 03:23:33 - Data Rows Extracted from .CSV File: 80000
+06/22/2020 03:23:33 => [Info] 06/22/2020 03:23:33 - Adding new columns 'received_time' and 'row_number' to DataTable
+06/22/2020 03:23:33 => [Info] 06/22/2020 03:23:33 - Renaming columns
+06/22/2020 03:23:33 => [Info] 06/22/2020 03:23:33 - Column addition completed
+06/22/2020 03:23:34 => [Info] 06/22/2020 03:23:34 - Inserting Part 1 records from file Data\Downloads\ExtractedFiles\CUR\CUR850TF.CSV into SQL Server
+06/22/2020 03:57:33 => [Info] 06/22/2020 03:57:33 - Records inserted into SQL Server: 80000
+06/22/2020 03:57:33 => [Info] 06/22/2020 03:57:33 - Inserting Part 2 records from file Data\Downloads\ExtractedFiles\CUR\CUR850TF.CSV into SQL Server
+06/22/2020 04:31:39 => [Info] 06/22/2020 04:31:39 - Records inserted into SQL Server: 80000
+06/22/2020 04:31:40 => [Info] Transaction Successful.
+06/22/2020 04:31:41 => [Info] Processing Transaction Number: 2
+06/22/2020 04:31:42 => [Info] 06/22/2020 04:31:42 - Message From: "Juan G Garcia" <Juan.G.Garcia@sce.com>
+Message Date: 06/19/2020 22:58:19
+Subject: Collection System Report (100K+)
+Attachments Count: 1
+06/22/2020 04:31:42 => [Info] 06/22/2020 04:31:42 - Processing attachment: SMTP1.COLLECTIONS_SECOND_REPORT.ZIP
+06/22/2020 04:31:43 => [Info] 06/22/2020 04:31:43 - Uploading File to SharePoint: Data\Downloads\ExtractedFiles\CUR\CUR850TS.CSV
+06/22/2020 04:31:47 => [Info] 06/22/2020 04:31:47 - Computing total number of rows
+06/22/2020 04:31:47 => [Info] 06/22/2020 04:31:47 - Row Count: 160000
+06/22/2020 04:31:47 => [Info] 06/22/2020 04:31:47 - Extracting First Half of Data from File: Data\Downloads\ExtractedFiles\CUR\CUR850TS.CSV
+06/22/2020 04:31:48 => [Info] 06/22/2020 04:31:48 - Data Rows Extracted from .CSV File: 80000
+06/22/2020 04:31:48 => [Info] 06/22/2020 04:31:48 - Adding new columns 'received_time' and 'row_number' to DataTable
+06/22/2020 04:31:48 => [Info] 06/22/2020 04:31:48 - Column addition completed
+06/22/2020 04:31:48 => [Info] 06/22/2020 04:31:48 - Extracting Second Half Data from File: Data\Downloads\ExtractedFiles\CUR\CUR850TS.CSV
+06/22/2020 04:31:49 => [Info] 06/22/2020 04:31:49 - Data Rows Extracted from .CSV File: 80000
+06/22/2020 04:31:49 => [Info] 06/22/2020 04:31:49 - Adding new columns 'received_time' and 'row_number' to DataTable
+06/22/2020 04:31:49 => [Info] 06/22/2020 04:31:49 - Renaming columns
+06/22/2020 04:31:50 => [Info] 06/22/2020 04:31:50 - Column addition completed
+06/22/2020 04:31:50 => [Info] 06/22/2020 04:31:50 - Inserting Part 1 records from file Data\Downloads\ExtractedFiles\CUR\CUR850TS.CSV into SQL Server
+06/22/2020 05:05:27 => [Info] 06/22/2020 05:05:27 - Records inserted into SQL Server: 80000
+06/22/2020 05:05:27 => [Info] 06/22/2020 05:05:27 - Inserting Part 2 records from file Data\Downloads\ExtractedFiles\CUR\CUR850TS.CSV into SQL Server
+06/22/2020 05:37:50 => [Info] 06/22/2020 05:37:50 - Records inserted into SQL Server: 80000
+06/22/2020 05:37:51 => [Info] Transaction Successful.
+06/22/2020 05:37:52 => [Info] Processing Transaction Number: 3
+06/22/2020 05:37:53 => [Info] 06/22/2020 05:37:53 - Message From: "Juan G Garcia" <Juan.G.Garcia@sce.com>
+Message Date: 06/19/2020 22:59:13
+Subject: Collection System Report (100K+)
+Attachments Count: 1
+06/22/2020 05:37:53 => [Info] 06/22/2020 05:37:53 - Processing attachment: SMTP1.COLLECTIONS_THIRD_REPORT.ZIP
+06/22/2020 05:37:53 => [Info] 06/22/2020 05:37:53 - Uploading File to SharePoint: Data\Downloads\ExtractedFiles\CUR\CUR850TE.CSV
+06/22/2020 05:37:57 => [Info] 06/22/2020 05:37:57 - Computing total number of rows
+06/22/2020 05:37:57 => [Info] 06/22/2020 05:37:57 - Row Count: 141765
+06/22/2020 05:37:57 => [Info] 06/22/2020 05:37:57 - Extracting First Half of Data from File: Data\Downloads\ExtractedFiles\CUR\CUR850TE.CSV
+06/22/2020 05:37:58 => [Info] 06/22/2020 05:37:58 - Data Rows Extracted from .CSV File: 70882
+06/22/2020 05:37:58 => [Info] 06/22/2020 05:37:58 - Adding new columns 'received_time' and 'row_number' to DataTable
+06/22/2020 05:37:58 => [Info] 06/22/2020 05:37:58 - Column addition completed
+06/22/2020 05:37:58 => [Info] 06/22/2020 05:37:58 - Extracting Second Half Data from File: Data\Downloads\ExtractedFiles\CUR\CUR850TE.CSV
+06/22/2020 05:37:59 => [Info] 06/22/2020 05:37:59 - Data Rows Extracted from .CSV File: 70882
+06/22/2020 05:37:59 => [Info] 06/22/2020 05:37:59 - Adding new columns 'received_time' and 'row_number' to DataTable
+06/22/2020 05:37:59 => [Info] 06/22/2020 05:37:59 - Renaming columns
+06/22/2020 05:38:00 => [Info] 06/22/2020 05:38:00 - Column addition completed
+06/22/2020 05:38:00 => [Info] 06/22/2020 05:38:00 - Inserting Part 1 records from file Data\Downloads\ExtractedFiles\CUR\CUR850TE.CSV into SQL Server
+06/22/2020 06:15:02 => [Info] 06/22/2020 06:15:02 - Records inserted into SQL Server: 70882
+06/22/2020 06:15:02 => [Info] 06/22/2020 06:15:02 - Inserting Part 2 records from file Data\Downloads\ExtractedFiles\CUR\CUR850TE.CSV into SQL Server
+06/22/2020 06:43:35 => [Info] 06/22/2020 06:43:35 - Records inserted into SQL Server: 70883
+06/22/2020 06:43:37 => [Info] Transaction Successful.
+06/22/2020 06:43:38 => [Info] Process finished due to no more transaction data
+06/22/2020 06:43:38 => [Debug] Closing applications...
+06/22/2020 06:43:38 => [Info] End: 2020/06/22 06:43:38
+06/22/2020 06:43:38 => [Info] EmailDownloadAndProcess_REF execution ended in: 03:20:24

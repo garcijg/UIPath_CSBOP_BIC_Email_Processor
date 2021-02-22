@@ -1,0 +1,36 @@
+06/24/2020 21:59:36 => [Debug] Debug started for file: Main
+06/24/2020 21:59:37 => [Info] EmailDownloadAndProcess_REF execution started
+06/24/2020 21:59:39 => [Info] Start: 2020/06/24 21:59:39
+06/24/2020 21:59:40 => [Debug] Killing processes...
+06/24/2020 21:59:44 => [Debug] Opening applications...
+06/24/2020 21:59:44 => [Info] Processing Transaction Number: 1
+06/24/2020 21:59:45 => [Info] 06/24/2020 21:59:45 - Message From: "HOST BATCH - PROD" <COLLECTION_SYSTEM@SCE.COM>
+Message Date: 06/23/2020 06:56:31
+Subject: COLLECTION SYSTEM REPORT1
+Attachments Count: 1
+06/24/2020 21:59:45 => [Info] 06/24/2020 21:59:45 - Processing attachment: SMTP1.COLLECTIONS_SECOND_REPORT.ZIP
+06/24/2020 21:59:48 => [Info] 06/24/2020 21:59:48 - Uploading File to SharePoint: Data\Downloads\ExtractedFiles\CUR\CUR850TS.CSV
+06/24/2020 21:59:48 => [Info] 06/24/2020 21:59:48 - Copying file to network share: Data\Downloads\ExtractedFiles\CUR\CUR850TS.CSV
+06/24/2020 22:02:58 => [Info] Transaction Successful.
+06/24/2020 22:02:59 => [Info] Processing Transaction Number: 2
+06/24/2020 22:02:59 => [Info] 06/24/2020 22:02:59 - Message From: "HOST BATCH - PROD" <COLLECTION_SYSTEM@SCE.COM>
+Message Date: 06/23/2020 06:56:32
+Subject: COLLECTION SYSTEM REPORT1
+Attachments Count: 1
+06/24/2020 22:02:59 => [Info] 06/24/2020 22:02:59 - Processing attachment: SMTP1.COLLECTIONS_THIRD_REPORT.ZIP
+06/24/2020 22:03:00 => [Info] 06/24/2020 22:03:00 - Uploading File to SharePoint: Data\Downloads\ExtractedFiles\CUR\CUR850TE.CSV
+06/24/2020 22:03:00 => [Info] 06/24/2020 22:03:00 - Copying file to network share: Data\Downloads\ExtractedFiles\CUR\CUR850TE.CSV
+06/24/2020 22:06:30 => [Info] Transaction Successful.
+06/24/2020 22:06:30 => [Info] Processing Transaction Number: 3
+06/24/2020 22:06:31 => [Info] 06/24/2020 22:06:31 - Message From: "HOST BATCH - PROD" <COLLECTION_SYSTEM@SCE.COM>
+Message Date: 06/23/2020 06:56:30
+Subject: COLLECTION SYSTEM REPORT1
+Attachments Count: 1
+06/24/2020 22:06:31 => [Info] 06/24/2020 22:06:31 - Processing attachment: SMTP1.COLLECTIONS_FIRST_REPORT.ZIP
+06/24/2020 22:06:32 => [Info] 06/24/2020 22:06:32 - Uploading File to SharePoint: Data\Downloads\ExtractedFiles\CUR\CUR850TF.CSV
+06/24/2020 22:06:32 => [Info] 06/24/2020 22:06:32 - Copying file to network share: Data\Downloads\ExtractedFiles\CUR\CUR850TF.CSV
+06/24/2020 22:10:12 => [Info] Transaction Successful.
+06/24/2020 22:10:13 => [Info] Process finished due to no more transaction data
+06/24/2020 22:10:13 => [Debug] Closing applications...
+06/24/2020 22:10:13 => [Info] End: 2020/06/24 22:10:13
+06/24/2020 22:10:13 => [Info] EmailDownloadAndProcess_REF execution ended in: 00:10:36
